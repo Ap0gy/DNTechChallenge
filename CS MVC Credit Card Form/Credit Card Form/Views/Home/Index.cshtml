@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Input Form";
+}
+
+<h3>Course Booker</h3>
+
+<form class="myForm" action="" method="post">
+    <label for="customer_name">Name: </label>
+    <input type="text" name="customer_name" id="customer_name" placeholder="Enter Your Name" pattern="@ViewData["pattern"]" title="@ViewData["error"]" required>
+    <label for="email_address">Email: </label>
+    <input type="email" name="email_address" id="email_address" placeholder="Enter Your Email" required>
+    <label for="ccnum"> Card:</label>
+    <input type="text" id="card_number" name="card_number" onkeyup="validatecardnumber(this.value)" placeholder="Enter a Proxy Credit Card Number" required>
+    <input type="submit" value="Submit" class="btn">
+</form>

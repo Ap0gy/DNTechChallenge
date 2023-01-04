@@ -1,0 +1,26 @@
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.csproj.AssemblyReference.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.AssemblyInfoInputs.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.AssemblyInfo.cs
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.RazorAssemblyInfo.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.RazorAssemblyInfo.cs
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\appsettings.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.staticwebassets.runtime.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.exe
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.deps.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.runtimeconfig.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.dll
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\bin\Debug\net6.0\Credit Card Form.pdb
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\scopedcss\bundle\Credit Card Form.styles.css
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\scopedcss\projectbundle\Credit Card Form.bundle.scp.css
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.dll
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\refint\Credit Card Form.dll
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.pdb
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\Credit Card Form.genruntimeconfig.cache
+C:\Users\alext\source\repos\Credit Card Form\Credit Card Form\obj\Debug\net6.0\ref\Credit Card Form.dll

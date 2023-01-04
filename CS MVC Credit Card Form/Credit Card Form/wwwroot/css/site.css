@@ -1,0 +1,41 @@
+.myForm {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.8em;
+    background: #89c82e;
+    padding: 2em;
+    border-radius: 2em;
+    font-size: 150%;
+    border: 8px solid #000000;
+    align-items: center;
+    min-width: 600px;
+    max-width: 600px;
+}
+
+    .myForm > input {
+        padding: 1em;
+        font-size: 100%;
+    }
+
+input[type=submit] {
+    width: 100%;
+    background-color: #E70064;
+    color: black;
+    padding: 5px 20px;
+    margin: 5px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 100%;
+    width: 150px;
+    grid-column: 1 / 3;
+    justify-self: center;
+}
+
+    input[type=submit]:hover {
+        background-color: #E92F7F;
+    }
+
+input, label {
+    font-family: calibri;
+}
